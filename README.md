@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+## Week 7 PROJECT
+## Amit Singh
+## Microsoft page using react
 
 In the project directory, you can run:
 
